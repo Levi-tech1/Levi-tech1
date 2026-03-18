@@ -18,6 +18,7 @@
 
 ### 🛠️ Tech Stack
 ```text
-Languages: Java | SQL  
-Frontend: HTML | CSS | JavaScript  
-Tools: Git | GitHub | VS Code | Power BI  
+•	Languages: Java, SQL, HTML, CSS
+•	Databases: MySQL, MongoDB
+•	Frontend: React.js, Tailwind CSS, Bootstrap, Vite
+•	Tools: IntelliJ IDEA, Visual Studio Code, Git, GitHub  
