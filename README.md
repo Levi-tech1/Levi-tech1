@@ -18,6 +18,6 @@
 
 ### 🛠️ Tech Stack
 ```text
-Languages: Java | Python | C | SQL  
+Languages: Java | SQL  
 Frontend: HTML | CSS | JavaScript  
 Tools: Git | GitHub | VS Code | Power BI  
