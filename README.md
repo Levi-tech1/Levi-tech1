@@ -9,8 +9,8 @@
 - 🌱 I’m currently learning **Java, DSA & Cloud (AWS)**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 🤔 I’m looking for help with **Advanced DSA & Backend Development**
-- 💬 Ask me about **Java, Python, HTML, CSS, JavaScript**
-- 📫 How to reach me: **your-email@example.com**
+- 💬 Ask me about **Java,  HTML, CSS, JavaScript**
+- 📫 How to reach me: **jaydixit2056@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love building real-world projects 🚀  
 
