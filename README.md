@@ -1,41 +1,23 @@
-## Hi there 👋
+## Hi there 👋 I'm Jay Dixit
 
-My name is Jay Dixit  
-I am a BCA student and I like coding 💻  
-
----
-
-### About Me
-- 🔭 I am working on web development projects  
-- 🌱 I am learning Java, DSA, and Cloud (AWS)  
-- 👯 I want to work on open source projects  
-- 🤔 I need help with backend and DSA  
-- 💬 Ask me about Java, Python, HTML, CSS, JavaScript  
-- 📫 Email: your-jaydixit2056@gmail.com 
-- ⚡ Fun fact: I enjoy building websites  
+🎓 BCA Student | 💻 Aspiring Software Developer | 🚀 Tech Enthusiast  
 
 ---
 
-### Skills
-- Java  
-- HTML  
-- CSS  
-- JavaScript  
-- SQL  
+### 👨‍💻 About Me
+- 🔭 I’m currently working on **Web Development & Projects**
+- 🌱 I’m currently learning **Java, DSA & Cloud (AWS)**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🤔 I’m looking for help with **Advanced DSA & Backend Development**
+- 💬 Ask me about **Java, Python, HTML, CSS, JavaScript**
+- 📫 How to reach me: **your-email@example.com**
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love building real-world projects 🚀  
 
 ---
 
-### Projects
-- SwiftBites (Food Delivery Website)  
-- Nike Sales Dashboard  
-- Inventory System  
-
----
-
-### Connect with me
-- LinkedIn: your-link  
-- GitHub: your-username  
-
----
-
-Thanks for visiting my profile 😊
+### 🛠️ Tech Stack
+```text
+Languages: Java | Python | C | SQL  
+Frontend: HTML | CSS | JavaScript  
+Tools: Git | GitHub | VS Code | Power BI  
