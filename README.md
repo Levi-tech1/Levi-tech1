@@ -1,24 +1,25 @@
 ## Hi there 👋 I'm Jay Dixit
 
-🎓 BCA Student | 💻 Aspiring Software Developer | 🚀 Tech Enthusiast  
+🎓 BCA Student at IILM University | 💻 Aspiring Software Developer | 🚀 Tech Enthusiast
 
----
+👨‍💻 Passionate about Web Development, Java, DSA & Cloud Computing (AWS).
+🌱 Currently learning Java, Data Structures & Algorithms, and Backend Development.
+🔭 Working on real-world projects and improving problem-solving skills.
+👯 Open to collaborating on Open Source Projects.
+💬 Ask me about Java, HTML, CSS, JavaScript, React & GitHub.
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **Web Development & Projects**
-- 🌱 I’m currently learning **Java, DSA & Cloud (AWS)**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 🤔 I’m looking for help with **Advanced DSA & Backend Development**
-- 💬 Ask me about **Java,  HTML, CSS, JavaScript**
-- 📫 How to reach me: **jaydixit2056@gmail.com**
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love building real-world projects 🚀  
+🛠️ Tech Stack
+• Languages: Java, SQL, HTML, CSS, JavaScript
+• Databases: MySQL, MongoDB
+• Frontend: React.js, Tailwind CSS, Bootstrap, Vite
+• Tools: VS Code, IntelliJ IDEA, Git, GitHub
 
----
+🚀 Projects
+• SwiftBites – Food Delivery Website
+• Nike Sales Dashboard using Python, Dash & Plotly
 
-### 🛠️ Tech Stack
-```text
-•	Languages: Java, SQL, HTML, CSS
-•	Databases: MySQL, MongoDB
-•	Frontend: React.js, Tailwind CSS, Bootstrap, Vite
-•	Tools: IntelliJ IDEA, Visual Studio Code, Git, GitHub  
+🎯 Goal: Looking forward to pursuing MCA and becoming a successful Software & Application Developer.
+
+📫 Reach me: [jaydixit2056@gmail.com](mailto:jaydixit2056@gmail.com)
+⚡ Fun fact: I love building real-world projects and learning new technologies 🚀
+
