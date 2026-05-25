@@ -45,7 +45,4 @@
 
 ## 📫 Connect With Me
 
-📧 **[jaydixit2056@gmail.com](mailto:jaydixit2056@gmail.com)**
-
-⚡ *Fun Fact:* I love building real-world projects and exploring new technologies 🚀
 
